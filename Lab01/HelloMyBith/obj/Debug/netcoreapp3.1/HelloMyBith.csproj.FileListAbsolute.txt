@@ -1,0 +1,12 @@
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\bin\Debug\netcoreapp3.1\HelloMyBith.exe
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\bin\Debug\netcoreapp3.1\HelloMyBith.deps.json
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\bin\Debug\netcoreapp3.1\HelloMyBith.runtimeconfig.json
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\bin\Debug\netcoreapp3.1\HelloMyBith.runtimeconfig.dev.json
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\bin\Debug\netcoreapp3.1\HelloMyBith.dll
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\bin\Debug\netcoreapp3.1\HelloMyBith.pdb
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\obj\Debug\netcoreapp3.1\HelloMyBith.AssemblyInfoInputs.cache
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\obj\Debug\netcoreapp3.1\HelloMyBith.AssemblyInfo.cs
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\obj\Debug\netcoreapp3.1\HelloMyBith.csproj.CoreCompileInputs.cache
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\obj\Debug\netcoreapp3.1\HelloMyBith.dll
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\obj\Debug\netcoreapp3.1\HelloMyBith.pdb
+D:\FPTU\CN5\C# and .Net\HelloMyBith\HelloMyBith\obj\Debug\netcoreapp3.1\HelloMyBith.genruntimeconfig.cache
